@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FreeDocs"
+title:  "deploy to heroku"
 date:   2022-09-22 15:00:00 +0900
 categories: Imaginery update
 ---
@@ -10,7 +10,7 @@ categories: Imaginery update
 
 1. 프로젝트에 gunicorn 설치
 2. Procfile 생성
-  > web: gunicorn {main 진입점을 포함한 파일}:app
+  > web: gunicorn {main 진입점을 포함한 파일}:app  
   > 띄어쓰기 매우매우매우매우매우매우매우 중요, 대부분의 에러가 이 부분에서 발생.
 
 3. 헤로쿠에 프로젝트 생성
