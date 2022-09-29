@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "deploy to heroku"
+title:  "Deploy to Heroku"
 date:   2022-09-22 15:00:00 +0900
 categories: Imaginery update
 ---
